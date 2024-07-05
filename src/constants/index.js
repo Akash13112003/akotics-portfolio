@@ -50,12 +50,8 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Python Developer",
     icon: backend,
-  },
-  {
-    title: "Software Developer",
-    icon: creator,
   },
   {
     title: "Software Developer",
@@ -237,25 +233,25 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "NSS Website",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive platform designed to connect students with the National Service Scheme (NSS) initiatives at MMMUT Gorakhpur.",
     tags: [
       {
-        name: "nextjs",
-        color: "blue-text-gradient",
+        name: "html",
+        color: "orange-text-gradient",
       },
       {
-        name: "supabase",
-        color: "green-text-gradient",
+        name: "javascript",
+        color: "yellow-text-gradient",
       },
       {
         name: "css",
-        color: "pink-text-gradient",
+        color: "blue-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://codeaholic-shub.github.io/NSS-MMMUT/",
   },
 ];
 
